@@ -26,7 +26,7 @@ A Solidity smart contract to register, verify, and manage digital assets on the 
 ### Interacting with the Contract
 1. **Register an Asset**: Call `registerAsset(string memory assetHash)` with a unique asset hash.
 2. **Verify Asset**: Call `verifyAsset(string memory assetHash)` to get asset details.
-3. **Ownership Transfer** (Optional): Call `transferOwnership(string memory assetHash, address newOwner)` to transfer asset ownership.
+3. **Ownership Transfer**: Call `transferOwnership(string memory assetHash, address newOwner)` to transfer asset ownership.
 
 ## Known Issues
 - Ensure you have enough test Ether in MetaMask for deployment and interactions.
