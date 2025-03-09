@@ -6,7 +6,7 @@ A Solidity smart contract to register, verify, and manage digital assets on the 
 
 - **Register Asset**: Allows users to register digital assets with a unique hash, owner address, and timestamp.
 - **Verify Asset**: Users can verify asset details using its hash.
-- **Ownership Transfer** (Optional): Transfer ownership of an asset to a new Ethereum address.
+- **Ownership Transfer**: Transfer ownership of an asset to a new Ethereum address.
 
 ## Setup & Deployment
 
